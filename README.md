@@ -1,4 +1,4 @@
-# Facturante2 - Sistema de Facturación Electrónica
+# Facturante - Sistema de Facturación Electrónica
 
 Sistema de facturación electrónica con arquitectura hexagonal que integra el SDK de AFIP para crear y validar facturas electrónicas.
 
