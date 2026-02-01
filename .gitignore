@@ -26,7 +26,5 @@ Thumbs.db
 .env.*.local
 
 mejoras/
-testing/
 cert/
 sdk_afip/
-examples/
